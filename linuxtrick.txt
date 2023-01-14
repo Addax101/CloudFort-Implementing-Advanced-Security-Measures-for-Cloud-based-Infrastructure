@@ -1,0 +1,9 @@
+mkdir CloudFort && cd CloudFort
+mkdir network_security access_control encryption monitoring incident_response integration
+touch README.md
+touch network_security/network_security.tf network_security/network_security.yml network_security/README.md
+touch access_control/access_control.tf access_control/access_control.yml access_control/README.md
+touch encryption/encryption.tf encryption/encryption.yml encryption/README.md
+touch monitoring/monitoring.tf monitoring/monitoring.yml monitoring/README.md
+touch incident_response/incident_response.tf incident_response/incident_response.yml incident_response/README.md
+touch integration/integration.tf integration/integration.yml integration/README.md
