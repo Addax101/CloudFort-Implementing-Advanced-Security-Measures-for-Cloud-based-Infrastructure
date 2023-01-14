@@ -26,3 +26,7 @@ CloudFort/
     ├── README.md
 
 This tree depicts the basic file structure of the project, with the main folder "CloudFort" containing all the necessary files, and subfolders that include the different steps of the project that you have described. Each subfolder contains the necessary configuration files such as .tf or .yml files, and a README file that explains the step in detail.
+
+
+
+In this project, you would implement security best practices for a cloud-based application or infrastructure using tools such as AWS Security Hub, Azure Security Center, or Google Cloud Security Command Center. This could include tasks such as setting up network security, configuring access controls, implementing encryption for data at rest and in transit, and monitoring for security breaches. The project could also include integrating these tools with other security solutions such as a web application firewall or intrusion detection/prevention system. This project would showcase your understanding of cloud security and your ability to implement security controls to protect a cloud-based application or infrastructure.
