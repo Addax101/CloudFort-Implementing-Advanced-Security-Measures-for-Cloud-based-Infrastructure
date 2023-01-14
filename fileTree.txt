@@ -1,0 +1,28 @@
+CloudFort/
+├── README.md
+├── network_security/
+│   ├── network_security.tf
+│   ├── network_security.yml
+│   ├── README.md
+├── access_control/
+│   ├── access_control.tf
+│   ├── access_control.yml
+│   ├── README.md
+├── encryption/
+│   ├── encryption.tf
+│   ├── encryption.yml
+│   ├── README.md
+├── monitoring/
+│   ├── monitoring.tf
+│   ├── monitoring.yml
+│   ├── README.md
+├── incident_response/
+│   ├── incident_response.tf
+│   ├── incident_response.yml
+│   ├── README.md
+└──integration/
+    ├── integration.tf
+    ├── integration.yml
+    ├── README.md
+
+This tree depicts the basic file structure of the project, with the main folder "CloudFort" containing all the necessary files, and subfolders that include the different steps of the project that you have described. Each subfolder contains the necessary configuration files such as .tf or .yml files, and a README file that explains the step in detail.
